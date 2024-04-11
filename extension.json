@@ -1,0 +1,7 @@
+{
+	"name": "Min Theme",
+	"version": "0.0.1",
+	"authors": ["Jacob Lamb <jacobtlamb@hey.com> (https://www.jacobdalamb.dev/)"],
+	"description": "A minimal theme for Visual Studio Code",
+	"repository": "https://github.com/jacoblamb/min-theme-zed"
+}
