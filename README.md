@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-	<img src="./assets/previews/dark.webp"/>
-	<img src="./assets/previews/light.webp"/>
+	<img src="./assets/previews/min-dark.webp"/>
+	<img src="./assets/previews/min-light.webp"/>
 </p>
 
 ## Usage
